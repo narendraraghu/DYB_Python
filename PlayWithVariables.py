@@ -24,15 +24,15 @@ print(a)
 
 a="Narendra"
 b = 99
-#print(a+b)
+# print(a+b)
 
-#TypeError: can only concatenate str (not "int") to str
+# TypeError: can only concatenate str (not "int") to str
 
 a="Narendra"
 b = "99"
 print(a+b)
 
-#below can concatenate both
+# below can concatenate both
 a="Narendra"
 b = 99
 print(a+str(b))
