@@ -8,4 +8,4 @@
 
 name = input("Enter name\n")
 age = int(input("Enter age\n"))
-print("Name is ", name ," and age is ", age)
+print("Name is ", name, " and age is ", age)

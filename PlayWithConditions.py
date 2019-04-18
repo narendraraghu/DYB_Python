@@ -18,24 +18,24 @@ elif n % 2 == 0 and n > 20:
 #     else if (n % 2 == 0 & & n > 20)
 #     System.out.println("Not Weird");
 
-#Switch case
-#Python does not really have a switch/case. if/elif/else are used instead.
+# Switch case
+# Python does not really have a switch/case. if/elif/else are used instead.
 
-for n in range(3) :
+for n in range(3):
     print(n)
 
-for c in "Raghu" :
-  print(c)
+for c in "Raghu":
+    print(c)
 
-#See c or n is only name not a special charactor
+# See c or n is only name not a special charactor
 
 
 ### While loop
 
 n = 0
-while True :
+while True:
     n = n + 1
     print(n)
-    if n==9 :
+    if n == 9:
         break
-print("Loop broke with n = ",n)
+print("Loop broke with n = ", n)
