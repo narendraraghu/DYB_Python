@@ -5,6 +5,9 @@ This is one of the initiative done from my side to help the needy and it will so
 
 
 ## API Reference
+https://javascript.plainenglish.io/17-killer-websites-for-web-developers-13e1e30345b8
+https://readme.so/editor
+https://pfpmaker.com/results
 
 #### Get all items
 
