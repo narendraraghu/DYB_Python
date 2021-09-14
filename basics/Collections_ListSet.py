@@ -1,20 +1,17 @@
 # in java List<String> list = new ArrayList<>();
 # create a new list
-list = []
-list.append("A")  # add to the end
-list.append("E")
-list.append("C")
-list.insert(3, "D")  # insert at an index
-sorted_list = sorted(list)  # returns a new, sorted list
-print(list)
-list.sort()  # in place sort
-print(list)
-list.remove("C")  # remov        e first occurrence of "C"
-popped = list.pop(2)  # return and remove the item at index 2
-list.reverse()  # reverse the list
-a = list.index("A")  # return index of "A"
-list += ["E", "F"]  # add a list with E and F to the end of this list
-size = len(list)  # size of the list
+list_of_bla_bla = ["A", "E", "C"]
+list_of_bla_bla.insert(3, "D")  # insert at an index
+sorted_list = sorted(list_of_bla_bla)  # returns a new, sorted list
+print(list_of_bla_bla)
+list_of_bla_bla.sort()  # in place sort
+print(list_of_bla_bla)
+list_of_bla_bla.remove("C")  # remov        e first occurrence of "C"
+popped = list_of_bla_bla.pop(2)  # return and remove the item at index 2
+list_of_bla_bla.reverse()  # reverse the list
+a = list_of_bla_bla.index("A")  # return index of "A"
+list_of_bla_bla += ["E", "F"]  # add a list with E and F to the end of this list
+size = len(list_of_bla_bla)  # size of the list
 
 # Sets
 

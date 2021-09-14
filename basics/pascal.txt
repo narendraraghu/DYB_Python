@@ -1,0 +1,4 @@
+This is a test from Pythonl last):
+  File "/home/nr/IdeaProjects/Hello_Python/ReadWriteFile.py", line 5, in <module>
+    f = open("/Users/narendra.raghuwanshi/Desktop/pascal.txt", "r")
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/narendra.raghuwanshi/Desktop/pascal.txt'

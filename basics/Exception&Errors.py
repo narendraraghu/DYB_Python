@@ -15,11 +15,9 @@ finally:  # will execute regardless of exceptions or happy path
 # Maps are called dicts or Dictionaries in Python.
 
 wordcount_map = {}  # create a new, empty dict
-wordcount_map = {"anchor": 2, "dock": 3}  # create a new dict and add key-values
+wordcount_map = {"anchor": 2, "dock": 3, "the": 10, "a": 8, "boat": "narendra"}
+# create a new dict and add key-values
 
-wordcount_map["the"] = 10  # add keys and values
-wordcount_map["a"] = 8
-wordcount_map["boat"] = "narendra"
 print(wordcount_map["the"])  # value of a key
 print(wordcount_map.keys())  # List of keys
 print(wordcount_map.values())  # List of values

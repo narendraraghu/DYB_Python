@@ -21,7 +21,7 @@ print(profile)
 # If they do not compare to =,< or > then it proceed to the second element and so on.
 a = (1, 1)
 b = (1, 4)
-if (a > b):
+if a > b:
     print("a is bigger")
 else:
     print("b is bigger")
